@@ -1,0 +1,4 @@
+site_name: OCR-D Manager
+
+nav:
+  - README: 'README.md'
