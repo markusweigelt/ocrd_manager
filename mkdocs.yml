@@ -1,4 +1,6 @@
 site_name: OCR-D Manager
 
+docs_dir: .
+
 nav:
   - README: 'README.md'
